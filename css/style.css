@@ -73,6 +73,11 @@
     cursor: pointer;
 }
 
+.header__logo-company:hover {
+    opacity: 0.5;
+    transition: opacity 200ms ease-in-out;
+}
+
 .menu__main {
     margin-bottom: 268px;
 }
@@ -92,6 +97,11 @@
 
 .h3-services {
     cursor: pointer;
+}
+
+.h3-services:hover {
+    opacity: 0.5;
+    transition: opacity 200ms ease-in-out;
 }
 
 .main__menu-title {
@@ -123,6 +133,11 @@
     text-decoration: none;
 }
 
+.footer__mail:hover {
+    opacity: 0.5;
+    transition: opacity 200ms ease-in-out;
+}
+
 .footer__phone {
     display: block;
     font-family: TT Lakes Bold;
@@ -146,6 +161,11 @@
     margin-bottom: 32px;
     letter-spacing: -0.2px;
     cursor: pointer;
+}
+
+.language:hover {
+    opacity: 0.5;
+    transition: opacity 200ms ease-in-out;
 }
 
 .languages__RU {
