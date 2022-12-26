@@ -66,6 +66,11 @@
     cursor: pointer;
 }
 
+.logo-burger:hover {
+    opacity: 0.5;
+    transition: opacity 200ms ease-in-out;
+}
+
 .header__logo-company {
     height: 51px;
     margin-right: 78px;
